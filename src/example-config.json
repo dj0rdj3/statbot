@@ -1,0 +1,9 @@
+{
+    "token": "your bot token",
+    "clientId": "bot application ID",
+    "redis": {
+        "socket": {
+            "host": "redis server IP"
+        }
+    }
+}
